@@ -1,0 +1,8 @@
+{
+  "name": "mcp-setup-server",
+  "version": "1.0.0",
+  "description": "Project setup MCP server",
+  "bin": { "mcp-setup-server": "./index.js" },
+  "type": "commonjs",
+  "license": "MIT"
+}
